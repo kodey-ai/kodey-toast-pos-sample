@@ -17,7 +17,7 @@ In this sample, we will explore how Kodey.ai can read external api documentation
 6. Execute the below prompt in the Kodey.ai chat UI
 7. Validate the commits and pull requests in your cloud git provider
 
-### SAMPLE PROMPT - EPIC FHIR AllergyIntolerance.Search(R4) API Sample
+### SAMPLE PROMPT - Kodey Toast POS Sample
 ```
     platform: github | bitbucket | azure | gitlab (choose one of yours)
 
@@ -57,7 +57,7 @@ In this sample, we will explore how Kodey.ai can read external api documentation
 
     step 11: Update the readme file to include the detail about the app and also instruction on how to run the app.
 
-    step 12: Create a new pull request from the above created branch with title "TOAST SAMPLE KODEY v1" and body "TOAST SAMPLE KODEY".
+    step 12: Create a new pull request from the above created branch with title "TOAST SAMPLE KODEY V1" and body "TOAST SAMPLE KODEY".
 
     step 13: Update this issue to closed status
 ```
