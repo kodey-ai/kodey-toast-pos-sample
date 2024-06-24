@@ -21,6 +21,8 @@ In this sample, we will explore how Kodey.ai can read external api documentation
 ```
     platform: github | bitbucket | azure | gitlab (choose one of yours)
 
+    project to work on: kodey-toast-sample (ONLY IF AZURE)
+
     repository to work on: kodey-toast-sample
 
     branch name to create: feature/kodey-toast-sample-v1
