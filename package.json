@@ -1,0 +1,18 @@
+{
+  "name": "kodey-toast-sample",
+  "version": "1.0.0",
+  "description": "Express TypeScript app for Toast API integration",
+  "main": "app.ts",
+  "scripts": {
+    "start": "ts-node app.ts"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "typescript": "^4.0.3",
+    "ts-node": "10.9.2"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
